@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kasun+Abaywardana;Senior+Full-Stack+Engineer;AI+%26+LLM+Engineer;Cloud-Native+AWS+Architect" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Consultant @ IBM · Monetary Authority of Singapore (MAS)</h3>
+<h3 align="center">Full-Stack Developer & AI Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kasun002&label=Profile%20Views&color=7C3AED&style=flat" alt="profile views" />
@@ -30,7 +30,7 @@ const kasun = {
     "LLM Orchestration & Custom Knowledge Bases",
     "Cloud-Native AWS Architecture & Serverless",
     "Full-Stack React · NestJS · FastAPI Platforms",
-    "CBDC & FinTech Platform Engineering",
+    "FinTech Platform Engineering",
   ],
 
   quote: "Build systems that scale, ship features that matter!",
@@ -104,7 +104,6 @@ const kasun = {
 ## Currently Exploring
 
 - Building **Agentic AI Pipelines** with LangChain & LangGraph
-- **CBDC** platform engineering at MAS
 - **RAG System** design patterns for enterprise knowledge bases
 - **AWS CDK** Infrastructure as Code
 
